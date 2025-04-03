@@ -3,8 +3,9 @@ simple example monorepo microfront architecure for lectore 05.04.25 in itmo
 build proj 
 ```
 npm i
+cd .\packages\
 
-cd .\packages\react-remote\
+cd .\react-remote\
 npm i
 npx vite build
 npx vite preview
