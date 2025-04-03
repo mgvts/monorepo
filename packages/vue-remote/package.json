@@ -1,0 +1,16 @@
+{
+  "name": "vue-remote",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@originjs/vite-plugin-federation": "^1.4.0"
+  }
+}
