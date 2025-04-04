@@ -1,4 +1,4 @@
-simple example monorepo microfront architecure for lectore 05.04.25 in itmo
+simple example monorepo microfront architecure for lecture 05.04.25 in itmo
 
 build proj 
 ```
